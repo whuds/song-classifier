@@ -1,0 +1,152 @@
+Predicted:  3 disco
+Actual:     0 blues
+Confidence: [0.07 0.   0.01 0.37 0.02 0.02 0.02 0.3  0.12 0.07]
+
+Predicted:  5 jazz
+Actual:     0 blues
+Confidence: [0.11 0.2  0.   0.   0.05 0.25 0.   0.05 0.18 0.15]
+
+Predicted:  2 country
+Actual:     0 blues
+Confidence: [0.1  0.19 0.47 0.03 0.01 0.09 0.   0.03 0.01 0.07]
+
+Predicted:  5 jazz
+Actual:     1 classical
+Confidence: [0.13 0.1  0.14 0.16 0.   0.27 0.   0.04 0.01 0.15]
+
+Predicted:  9 rock
+Actual:     2 country
+Confidence: [0.16 0.   0.15 0.04 0.01 0.08 0.01 0.09 0.22 0.25]
+
+Predicted:  5 jazz
+Actual:     2 country
+Confidence: [0.03 0.02 0.03 0.05 0.02 0.59 0.   0.01 0.18 0.07]
+
+Predicted:  9 rock
+Actual:     2 country
+Confidence: [0.07 0.   0.33 0.04 0.02 0.03 0.06 0.01 0.06 0.39]
+
+Predicted:  2 country
+Actual:     3 disco
+Confidence: [0.01 0.   0.43 0.27 0.   0.01 0.01 0.1  0.05 0.13]
+
+Predicted:  7 pop
+Actual:     3 disco
+Confidence: [0.02 0.01 0.07 0.21 0.1  0.04 0.08 0.28 0.01 0.19]
+
+Predicted:  7 pop
+Actual:     3 disco
+Confidence: [0.   0.   0.01 0.13 0.12 0.   0.01 0.73 0.   0.  ]
+
+Predicted:  9 rock
+Actual:     3 disco
+Confidence: [0.03 0.03 0.1  0.11 0.08 0.03 0.03 0.14 0.11 0.35]
+
+Predicted:  9 rock
+Actual:     3 disco
+Confidence: [0.19 0.   0.13 0.1  0.13 0.01 0.04 0.01 0.14 0.25]
+
+Predicted:  3 disco
+Actual:     4 hiphop
+Confidence: [0.   0.03 0.   0.42 0.01 0.   0.04 0.07 0.3  0.13]
+
+Predicted:  7 pop
+Actual:     4 hiphop
+Confidence: [0.01 0.   0.01 0.05 0.21 0.01 0.01 0.59 0.04 0.07]
+
+Predicted:  7 pop
+Actual:     4 hiphop
+Confidence: [0.09 0.   0.01 0.09 0.2  0.   0.07 0.41 0.02 0.11]
+
+Predicted:  8 reggae
+Actual:     4 hiphop
+Confidence: [0.01 0.01 0.   0.07 0.17 0.01 0.01 0.18 0.47 0.07]
+
+Predicted:  9 rock
+Actual:     4 hiphop
+Confidence: [0.03 0.   0.31 0.01 0.19 0.   0.13 0.03 0.01 0.31]
+
+Predicted:  6 metal
+Actual:     5 jazz
+Confidence: [0.02 0.   0.01 0.09 0.17 0.04 0.34 0.15 0.01 0.18]
+
+Predicted:  9 rock
+Actual:     6 metal
+Confidence: [0.01 0.   0.01 0.11 0.21 0.14 0.1  0.03 0.18 0.22]
+
+Predicted:  0 blues
+Actual:     6 metal
+Confidence: [0.29 0.   0.02 0.17 0.02 0.03 0.07 0.26 0.   0.14]
+
+Predicted:  9 rock
+Actual:     6 metal
+Confidence: [0.01 0.   0.19 0.15 0.05 0.01 0.13 0.05 0.   0.41]
+
+Predicted:  3 disco
+Actual:     6 metal
+Confidence: [0.04 0.   0.09 0.25 0.06 0.09 0.13 0.01 0.13 0.21]
+
+Predicted:  8 reggae
+Actual:     6 metal
+Confidence: [0.01 0.   0.01 0.05 0.19 0.03 0.16 0.01 0.3  0.25]
+
+Predicted:  9 rock
+Actual:     6 metal
+Confidence: [0.03 0.   0.05 0.04 0.01 0.   0.33 0.11 0.   0.43]
+
+Predicted:  3 disco
+Actual:     7 pop
+Confidence: [0.15 0.   0.01 0.21 0.21 0.   0.04 0.18 0.01 0.19]
+
+Predicted:  3 disco
+Actual:     7 pop
+Confidence: [0.   0.03 0.04 0.3  0.09 0.03 0.03 0.23 0.15 0.09]
+
+Predicted:  9 rock
+Actual:     7 pop
+Confidence: [0.08 0.01 0.09 0.27 0.02 0.07 0.01 0.07 0.07 0.31]
+
+Predicted:  2 country
+Actual:     7 pop
+Confidence: [0.07 0.01 0.5  0.06 0.01 0.   0.   0.04 0.05 0.27]
+
+Predicted:  4 hiphop
+Actual:     8 reggae
+Confidence: [0.01 0.   0.01 0.03 0.53 0.03 0.04 0.01 0.28 0.05]
+
+Predicted:  4 hiphop
+Actual:     8 reggae
+Confidence: [0.07 0.   0.01 0.03 0.52 0.01 0.03 0.09 0.13 0.13]
+
+Predicted:  9 rock
+Actual:     8 reggae
+Confidence: [0.03 0.   0.09 0.29 0.15 0.   0.01 0.   0.01 0.43]
+
+Predicted:  7 pop
+Actual:     8 reggae
+Confidence: [0.09 0.   0.01 0.04 0.07 0.01 0.01 0.61 0.09 0.08]
+
+Predicted:  5 jazz
+Actual:     8 reggae
+Confidence: [0.03 0.13 0.1  0.07 0.01 0.3  0.   0.07 0.13 0.15]
+
+Predicted:  7 pop
+Actual:     8 reggae
+Confidence: [0.01 0.   0.05 0.05 0.04 0.   0.   0.57 0.25 0.02]
+
+Predicted:  3 disco
+Actual:     9 rock
+Confidence: [0.05 0.02 0.07 0.25 0.09 0.01 0.17 0.05 0.04 0.25]
+
+Predicted:  3 disco
+Actual:     9 rock
+Confidence: [0.   0.   0.29 0.36 0.   0.01 0.11 0.   0.01 0.22]
+
+Predicted:  2 country
+Actual:     9 rock
+Confidence: [0.   0.   0.46 0.11 0.   0.03 0.   0.02 0.03 0.36]
+
+Predicted:  5 jazz
+Actual:     9 rock
+Confidence: [0.06 0.16 0.15 0.02 0.01 0.36 0.   0.01 0.09 0.15]
+

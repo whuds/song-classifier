@@ -1,0 +1,164 @@
+Predicted:  7 pop
+Actual:     0 blues
+Confidence: [0.14 0.01 0.09 0.17 0.17 0.   0.06 0.21 0.07 0.07]
+
+Predicted:  9 rock
+Actual:     0 blues
+Confidence: [0.09 0.03 0.06 0.2  0.02 0.01 0.05 0.19 0.01 0.33]
+
+Predicted:  7 pop
+Actual:     2 country
+Confidence: [0.04 0.01 0.19 0.15 0.   0.09 0.01 0.25 0.19 0.07]
+
+Predicted:  9 rock
+Actual:     2 country
+Confidence: [0.01 0.   0.28 0.1  0.01 0.01 0.01 0.01 0.03 0.54]
+
+Predicted:  0 blues
+Actual:     2 country
+Confidence: [0.2  0.   0.16 0.03 0.07 0.07 0.02 0.15 0.14 0.16]
+
+Predicted:  3 disco
+Actual:     2 country
+Confidence: [0.05 0.   0.15 0.33 0.   0.03 0.02 0.05 0.09 0.28]
+
+Predicted:  9 rock
+Actual:     2 country
+Confidence: [0.05 0.   0.14 0.03 0.13 0.03 0.04 0.13 0.11 0.33]
+
+Predicted:  8 reggae
+Actual:     2 country
+Confidence: [0.12 0.   0.21 0.05 0.03 0.03 0.01 0.13 0.42 0.01]
+
+Predicted:  3 disco
+Actual:     2 country
+Confidence: [0.05 0.   0.29 0.39 0.01 0.07 0.03 0.08 0.01 0.09]
+
+Predicted:  5 jazz
+Actual:     2 country
+Confidence: [0.04 0.14 0.19 0.06 0.01 0.21 0.   0.06 0.2  0.09]
+
+Predicted:  3 disco
+Actual:     2 country
+Confidence: [0.   0.   0.13 0.41 0.02 0.02 0.01 0.02 0.14 0.25]
+
+Predicted:  2 country
+Actual:     3 disco
+Confidence: [0.05 0.02 0.57 0.12 0.   0.03 0.   0.05 0.01 0.15]
+
+Predicted:  7 pop
+Actual:     3 disco
+Confidence: [0.09 0.02 0.04 0.24 0.03 0.04 0.01 0.31 0.08 0.15]
+
+Predicted:  9 rock
+Actual:     3 disco
+Confidence: [0.03 0.   0.04 0.22 0.13 0.   0.09 0.01 0.04 0.44]
+
+Predicted:  4 hiphop
+Actual:     3 disco
+Confidence: [0.09 0.   0.   0.05 0.58 0.   0.09 0.09 0.02 0.08]
+
+Predicted:  4 hiphop
+Actual:     3 disco
+Confidence: [0.03 0.   0.06 0.2  0.38 0.   0.13 0.01 0.07 0.13]
+
+Predicted:  4 hiphop
+Actual:     3 disco
+Confidence: [0.09 0.   0.07 0.15 0.19 0.   0.09 0.13 0.14 0.14]
+
+Predicted:  4 hiphop
+Actual:     3 disco
+Confidence: [0.18 0.   0.   0.15 0.22 0.01 0.15 0.17 0.07 0.05]
+
+Predicted:  6 metal
+Actual:     4 hiphop
+Confidence: [0.03 0.   0.25 0.   0.1  0.02 0.31 0.04 0.01 0.24]
+
+Predicted:  8 reggae
+Actual:     4 hiphop
+Confidence: [0.01 0.01 0.01 0.13 0.25 0.   0.   0.17 0.4  0.03]
+
+Predicted:  3 disco
+Actual:     4 hiphop
+Confidence: [0.03 0.02 0.   0.32 0.27 0.01 0.03 0.01 0.27 0.03]
+
+Predicted:  7 pop
+Actual:     4 hiphop
+Confidence: [0.02 0.   0.   0.05 0.35 0.   0.15 0.37 0.01 0.05]
+
+Predicted:  8 reggae
+Actual:     4 hiphop
+Confidence: [0.21 0.01 0.05 0.13 0.19 0.03 0.01 0.05 0.26 0.08]
+
+Predicted:  9 rock
+Actual:     5 jazz
+Confidence: [0.13 0.01 0.21 0.07 0.01 0.23 0.01 0.09 0.01 0.25]
+
+Predicted:  9 rock
+Actual:     6 metal
+Confidence: [0.01 0.   0.01 0.08 0.23 0.01 0.29 0.02 0.02 0.32]
+
+Predicted:  3 disco
+Actual:     6 metal
+Confidence: [0.03 0.   0.03 0.25 0.16 0.01 0.16 0.07 0.17 0.13]
+
+Predicted:  9 rock
+Actual:     6 metal
+Confidence: [0.07 0.   0.06 0.12 0.09 0.01 0.12 0.11 0.14 0.28]
+
+Predicted:  3 disco
+Actual:     7 pop
+Confidence: [0.01 0.   0.06 0.46 0.   0.   0.01 0.4  0.03 0.03]
+
+Predicted:  5 jazz
+Actual:     7 pop
+Confidence: [0.08 0.   0.02 0.09 0.03 0.32 0.01 0.01 0.13 0.31]
+
+Predicted:  3 disco
+Actual:     8 reggae
+Confidence: [0.   0.   0.   0.46 0.11 0.05 0.02 0.23 0.09 0.03]
+
+Predicted:  3 disco
+Actual:     8 reggae
+Confidence: [0.11 0.01 0.   0.47 0.13 0.11 0.   0.03 0.1  0.04]
+
+Predicted:  3 disco
+Actual:     8 reggae
+Confidence: [0.   0.   0.07 0.29 0.14 0.01 0.05 0.25 0.15 0.05]
+
+Predicted:  4 hiphop
+Actual:     8 reggae
+Confidence: [0.05 0.01 0.01 0.15 0.43 0.01 0.01 0.12 0.15 0.07]
+
+Predicted:  4 hiphop
+Actual:     8 reggae
+Confidence: [0.01 0.   0.09 0.13 0.29 0.   0.03 0.1  0.24 0.11]
+
+Predicted:  7 pop
+Actual:     9 rock
+Confidence: [0.14 0.   0.01 0.03 0.01 0.   0.   0.75 0.06 0.  ]
+
+Predicted:  5 jazz
+Actual:     9 rock
+Confidence: [0.1  0.09 0.05 0.05 0.01 0.49 0.   0.   0.17 0.05]
+
+Predicted:  5 jazz
+Actual:     9 rock
+Confidence: [0.23 0.01 0.1  0.09 0.02 0.27 0.   0.03 0.17 0.08]
+
+Predicted:  6 metal
+Actual:     9 rock
+Confidence: [0. 0. 0. 0. 0. 0. 1. 0. 0. 0.]
+
+Predicted:  3 disco
+Actual:     9 rock
+Confidence: [0.   0.   0.   0.35 0.05 0.   0.21 0.   0.21 0.19]
+
+Predicted:  8 reggae
+Actual:     9 rock
+Confidence: [0.11 0.01 0.01 0.01 0.14 0.07 0.   0.15 0.44 0.05]
+
+Predicted:  7 pop
+Actual:     9 rock
+Confidence: [0.09 0.   0.   0.07 0.1  0.   0.05 0.44 0.01 0.23]
+

@@ -1,0 +1,40 @@
+#============ Model Information ============#
+Genres:['blues', 'classical', 'country', 'disco', 'hiphop', 'jazz', 'metal', 'pop', 'reggae', 'rock']
+Training percentage:  0.8
+Segment width:        0.2
+Number of frequencies 128
+Maximum frequency     4000
+Number of epochs      10
+Seed np:              1
+Seed tf:              2
+
+#============ Accuracy Information ============#
+Overall Accuracy:  0.785
+Weighted Accuracy: 0.78
+Segment Accuracy:  0.5390742160162628
+True Confidence:   0.6433757961783438 0.22323491422736402
+False Confidence:  0.3658139534883721 0.12538744713217276
+
+blues accuracy: 0.75
+classical accuracy: 0.85
+country accuracy: 0.95
+disco accuracy: 0.6
+hiphop accuracy: 0.95
+jazz accuracy: 1.0
+metal accuracy: 0.9
+pop accuracy: 0.7
+reggae accuracy: 0.7
+rock accuracy: 0.45
+
+#============ Timing Information Raw ============#
+Data loading:     15.95 seconds
+Train/Test Split: 0.6 seconds
+Segmentation:     0.75 seconds
+Applying MFCC:    589.62 seconds
+Fitting Model:    1149.73 seconds
+Predictions:      63.56 seconds
+
+#============ Timing Information Condensed ============#
+Pre-Processing: 606.92 seconds
+Training Time:  1149.73 seconds
+Testing Time:   63.56 seconds

@@ -1,0 +1,1 @@
+This folder contains the code and results of the metadata model.
